@@ -1,2 +1,2 @@
-# self-driving-car-module
-Udacity Self Driving Car Nano Degree
+# Self driving car module
+This repository contains submissions of projects under course `Udacity Self Driving Car Nanodegree`
