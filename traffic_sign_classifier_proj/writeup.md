@@ -21,6 +21,7 @@ The goals / steps of this project are the following:
 [image6]: ./examples/placeholder.png "Traffic Sign 3"
 [image7]: ./examples/placeholder.png "Traffic Sign 4"
 [image8]: ./examples/placeholder.png "Traffic Sign 5"
+[image9]: ./Explo_Stats.jpg "Exploratory Statistics of Data"
 
 ## Rubric Points 
 
@@ -43,7 +44,7 @@ signs data set:
 
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data is distributed among 43 classes of traffic signs.
 
-![alt text][image1]
+![alt text][image9]
 
 ### Design and Test a Model Architecture
 
